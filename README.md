@@ -132,23 +132,6 @@ Build foundational cybersecurity knowledge. Gain hands-on experience. Create por
 
 ---
 
-## Folder Structure
-
-```plaintext
-cybersecurity-summer-2025/
-├── README.md
-├── week-1-cybersecurity-foundations/
-├── week-2-networking-basics/
-├── week-3-python-network-scanner/
-├── week-4-red-team-vulnerability-report/
-├── week-5-blue-team-log-analysis/
-├── week-6-home-cyber-lab/
-├── log-analysis-project/
-├── LICENSE
-└── .gitignore
-```
-
----
 
 ## License
 
